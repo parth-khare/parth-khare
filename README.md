@@ -7,9 +7,9 @@ Skills: REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JAVA and ReactNative 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khare)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khare&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-khare&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-khare&theme=codeSTACKr&hide=contribs,prs)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parth-khare)  
 
