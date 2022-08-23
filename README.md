@@ -5,5 +5,5 @@ Tech interests include Javascript, Node Js, Mongo Db and React.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-khare&theme=codeSTACKr&hide=contribs,prs)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khare)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khare&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
