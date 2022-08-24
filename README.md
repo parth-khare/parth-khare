@@ -3,17 +3,15 @@
 <img align="center" src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg">
 </div>
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=cyan&width=380&height=45&lines=Web+Development+Enthusiast;Always+Learning;Touch+The+Sky+With+Glory...&center=true"></a>
+</p>
+
 <h1 align="center"> Hey There, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"> I'm Parth. </h1>
 
 Im currently doing my undergrad from Jaypee University Of Information Technology, Solan in Information Technology. This pretty much makes it obvious for me to be interested in design and development of different softwares. Tech interests include Javascript, Node Js, Mongo Db and React.
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=cyan&width=380&height=45&lines=Web+Development+Enthusiast;Always+Learning;...&center=true"></a>
-
-</p>
-
-
-## Skills and Experience
+<h2> Skills and Experience </h2>
 
 Skills: REACT / JS / HTML / CSS
 
