@@ -16,7 +16,7 @@
 Im currently doing my undergrad from Jaypee University Of Information Technology, Solan in Information Technology. This pretty much makes it obvious for me to be interested in design and development of different softwares. Tech interests include Javascript, Node Js, Mongo Db and React.
 
   
-<a href="https://twitter.com/Parth_1724" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black""/> </a> <a href="https://www.linkedin.com/in/verma-kunal/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
+<a href="https://twitter.com/kverma_twt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/verma-kunal/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 
