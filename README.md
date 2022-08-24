@@ -24,7 +24,7 @@ Skills: REACT / JS / HTML / CSS
 
 
 <div>
-<img align="center" src="https://newrelic.com/blog/nerd-life/good-computer-programmer-criteria">
+<img align="center" src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg">
 </div>
 
 <h3 align="center">
