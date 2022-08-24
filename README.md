@@ -1,7 +1,6 @@
 
 <div>
-<img align="center" src="standard.gif")
-">
+<img align="center" src="https://github.com/parth-khare/standardgif/blob/7e06d524ecd7f9686216237a5f2c18d28def8761/standard.gif">
 </div>
 
 <div>
