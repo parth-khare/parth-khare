@@ -3,9 +3,11 @@
 <img align="center" src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg">
 </div>
 
+<div>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=cyan&width=380&height=45&lines=Web+Development+Enthusiast;Always+Learning;Touch+The+Sky+With+Glory...&center=true"></a>
 </p>
+</div>
 
 <h1 align="center"> Hey There, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"> I'm Parth. </h1>
 
@@ -15,8 +17,8 @@ Im currently doing my undergrad from Jaypee University Of Information Technology
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JAVA and ReactNative 
+- 🔭 I’m currently working on React Js *⚛️ And React Native *📱
+- 🌱 Learning JAVA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khare&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-khare&theme=codeSTACKr&hide=contribs,prs)
 
