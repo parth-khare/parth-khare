@@ -1,6 +1,6 @@
 
 <div>
-<img align="center" src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg">
+<img align="center" src="https://drive.google.com/file/d/180A0E9oWgTIIuudWhQ5bNhbLG5m2YVEw/view?usp=sharing">
 </div>
 
 <div>
