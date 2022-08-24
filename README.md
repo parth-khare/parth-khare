@@ -1,6 +1,9 @@
-# Hi there 👋, Parth Here
 
-## About Me
+<div>
+<img align="center" src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg">
+</div>
+
+<h1 align="center"> Hey There, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"> I'm Parth. </h1>
 
 Im currently doing my undergrad from Jaypee University Of Information Technology, Solan in Information Technology. This pretty much makes it obvious for me to be interested in design and development of different softwares. Tech interests include Javascript, Node Js, Mongo Db and React.
 
@@ -23,9 +26,6 @@ Skills: REACT / JS / HTML / CSS
 
 
 
-<div>
-<img align="center" src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg">
-</div>
 
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Kunal Verma's profile
