@@ -24,7 +24,7 @@ Skills: REACT / JS / HTML / CSS
 
 
 <div>
-<img align="center" src="https://cdn.acodez.in/wp-content/uploads/2019/07/What-is-the-future-and-scope-of-web-development-career-banner.jpg">
+<img align="center" src="https://newrelic.com/blog/nerd-life/good-computer-programmer-criteria">
 </div>
 
 <h3 align="center">
