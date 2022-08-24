@@ -24,7 +24,7 @@ Skills: REACT / JS / HTML / CSS
 
 
 <div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
+<img align="center" src="https://cdn.acodez.in/wp-content/uploads/2019/07/What-is-the-future-and-scope-of-web-development-career-banner.jpg">
 </div>
 
 <h3 align="center">
