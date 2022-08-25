@@ -1,6 +1,6 @@
 
 <div>
-<img align="center" src="https://github.com/parth-khare/standardgif/blob/63dea50304e9f44ee6785c9b7bcdb3ab20c987fe/Black%20&%20Blue%20Gaming%20Futuristic%20Youtube%20Intro.gif" width="28">
+<img align="center" src="https://github.com/parth-khare/standardgif/blob/63dea50304e9f44ee6785c9b7bcdb3ab20c987fe/Black%20&%20Blue%20Gaming%20Futuristic%20Youtube%20Intro.gif" width="300">
 </div>
 
 <div>
