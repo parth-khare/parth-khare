@@ -63,11 +63,10 @@ Skills: REACT / JS / HTML / CSS
 <h2><🔩 ToolBox></h2>  
 <h1 align = "center">
 
-![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
-<!-- ![Javascript](https://img.shields.io/badge/-javascript-FFED66?style=for-the-badge&logo=javascript&logoColor=black) -->
-![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/-markdown-747578?style=for-the-badge&logo=markdown&logoColor=white)
+![Java](https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-java.svg)
+![Python](https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-python.svg)
+<img width=39.5px src="https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-html5-48.png">
+<img width=47px src="https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-css3.svg">
+![Git](https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-git.svg)
+![Markdown](https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-markdown-48.png)
 </h1>
