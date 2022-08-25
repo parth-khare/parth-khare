@@ -21,7 +21,7 @@ Im currently doing my undergrad from **Jaypee University Of Information Technolo
 
 
 <p align="center">
-		<a href="https://twitter.com/Parth_1724" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/parth-khare-2747141bb/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
+		<a href="https://twitter.com/Parth_1724" target='_blank'><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/parth-khare-2747141bb/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
 		</a>
 </p>
 
