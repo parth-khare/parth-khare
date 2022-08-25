@@ -65,8 +65,8 @@ Skills: REACT / JS / HTML / CSS
 
 ![Java](https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-java.svg)
 ![Python](https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-python.svg)
-<img width=39.5px src="https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-html5-48.png">
-<img width=47px src="https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-css3.svg">
+<img src="https://github.com/parth-khare/standardgif/blob/7e4b7b5c5f4bc6b6b9c9778fe4632209869b31a3/icons8-html-5.svg">
+<img src="https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-css3.svg">
 ![Git](https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-git.svg)
 ![Markdown](https://github.com/parth-khare/standardgif/blob/5ac7128127a2098f5627b085a6b09ab33cf8b018/icons8-markdown-48.png)
 </h1>
