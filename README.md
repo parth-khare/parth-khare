@@ -7,7 +7,7 @@
 
 <div>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=cyan&width=380&height=80&lines=Web+Development+Enthusiast;Always+Learning...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=cyan&width=380&height=80&lines=Front-End+Developer;CyberSecurity+enthusiast;Always+Learning...&center=true"></a>
 </p>
 </div>
 
@@ -28,10 +28,10 @@ Im currently doing my undergrad from **Jaypee University Of Information Technolo
 
 <h2>< Skills and Experience>⚙️</h2>
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / Problem Solving / Public Speaking
 
-- 🔭 I’m currently working on React Js *⚛️ And React Native *📱
-- 🌱 Learning JAVA
+- 🔭 Currently working on React Js *⚛️ And React Native *📱
+- 🌱 Learning JAVA and Ethical Hacking
 <br>
 
 	
